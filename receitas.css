@@ -16,10 +16,6 @@
 .receita .header h2{
     color: #1A0934;
 }
-.receita .header a{
-    text-decoration: none;
-    color: #6E44FF;
-}
 .receita .ingredientes{
     padding: 5px 0px
 }
