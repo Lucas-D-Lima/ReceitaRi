@@ -13,35 +13,6 @@ body{
     justify-content:center;
     padding-top: 5%;
 }
-.receitaA{
-    width: 550px;
-    background-color: #FFFFFF;
-    border-radius: 10px;
-    padding: 5px 10px 15px 10px;
-}
-.receitaA .header{
-    background-color: #F1F3F9;
-    padding: 20px;
-    margin: 0;
-    border-radius: 5px;
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-}
-.receitaA .header h2{
-    color: #1A0934;
-}
-.receitaA .header a{
-    text-decoration: none;
-    color: #6E44FF;
-}
-.receitaA .ingredientes{
-    padding: 5px 0px
-}
-.receitaA .ingredientes h3{
-    color: #1A0934;
-    padding-bottom: 2px;
-}
 li{
     text-decoration: none;
 }
