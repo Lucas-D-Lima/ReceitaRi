@@ -41,20 +41,19 @@ a{
 }
 .rodape{
     background-color: #FFF;
+    font-weight: 700;
     border-radius: 7px 7px 0 0;
+    box-shadow: 5px 5px rgba(0, 0, 0, 0.2);
+
     display: flex;
     padding: 20px;
+    flex-direction: row;
     align-items: center;
-    font-weight: 700;
-    box-shadow: 5px 5px rgba(0, 0, 0, 0.2);
-    
+    justify-content: space-between;
 }
 .rodape p{
     padding-top: 10px;
     padding-left: 10px;
-}
-.rodape a{
-    padding-left: 50px;
 }
 li{
     text-decoration: none;
